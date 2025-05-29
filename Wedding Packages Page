@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wedding Packages in Georgia</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #fffaf6;
+      color: #333;
+    }
+    header {
+      background-color: #f8e1e1;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    .package {
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      margin-bottom: 2rem;
+      padding: 1.5rem;
+      background: white;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    .package h2 {
+      margin-top: 0;
+    }
+    .price {
+      font-size: 1.2rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+      color: #c0392b;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      background: #f1f1f1;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Wedding Packages in Georgia</h1>
+    <p>Simple. Fast. Legally recognized worldwide.</p>
+  </header>
+
+  <div class="container">
+    <div class="package">
+      <h2>Basic Package</h2>
+      <p class="price">€290</p>
+      <p>Includes document verification, registration at Public Service Hall, and legal apostille. Perfect for couples who want to keep it simple and fast.</p>
+    </div>
+
+    <div class="package">
+      <h2>Premium Package</h2>
+      <p class="price">€590</p>
+      <p>Everything in the Basic Package + professional photographer, private translator, and assistance at every step. Ideal for couples who want a stress-free experience.</p>
+    </div>
+
+    <div class="package">
+      <h2>All-Inclusive Ceremony</h2>
+      <p class="price">€1190</p>
+      <p>Includes a beautiful outdoor ceremony location, bouquet, makeup artist, photoshoot, champagne, transport, and everything you need for an unforgettable day.</p>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Easy Wedding in Georgia | All rights reserved
+  </footer>
+</body>
+</html>
